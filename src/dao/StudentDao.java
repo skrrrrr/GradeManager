@@ -14,6 +14,8 @@ public interface StudentDao {
 
     Vector<Vector> query(List<Student> list);
 
+
+
     Vector<Vector> queryFailed();
 
     Vector<Vector> ArrayStudentBySid();
