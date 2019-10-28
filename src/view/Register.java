@@ -75,7 +75,7 @@ public class Register {
 
         JLabel label_1 = new JLabel();
         label_1.setIcon(new ImageIcon(Register.class.getResource("/view/image/register3.png")));
-        label_1.setBounds(326, 34, 124, 57);
+        label_1.setBounds(326, 35, 124, 57);
         frame.getContentPane().add(label_1);
 
         final JButton relogin = new JButton();
