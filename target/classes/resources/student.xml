@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<students>
+	<student id="001">
+		<sid>1710241433</sid>
+		<student_name>cai同学</student_name>
+		<mathScore>100</mathScore>
+		<EnglishScore>100</EnglishScore>
+		<ChineseScore>100</ChineseScore>
+		<average>100.0</average>
+		<total>300.0</total>
+	</student>
+	<student id="002">
+		<sid>1710241048</sid>
+		<student_name>梁朝伟</student_name>
+		<mathScore>50</mathScore>
+		<EnglishScore>34</EnglishScore>
+		<ChineseScore>78</ChineseScore>
+		<average>54.0</average>
+		<total>162.0</total>
+	</student>
+	<student id="003">
+		<sid>1710240877</sid>
+		<student_name>陈冠希</student_name>
+		<mathScore>55</mathScore>
+		<EnglishScore>99</EnglishScore>
+		<ChineseScore>47</ChineseScore>
+		<average>67.0</average>
+		<total>201.0</total>
+	</student>
+	<student id="004">
+		<sid>1710241040</sid>
+		<student_name>王祖贤</student_name>
+		<mathScore>98</mathScore>
+		<EnglishScore>98</EnglishScore>
+		<ChineseScore>97</ChineseScore>
+		<average>97.0</average>
+		<total>293.0</total>
+	</student>
+	<student id="005">
+		<sid>1710241035</sid>
+		<student_name>吴镇宇</student_name>
+		<mathScore>88</mathScore>
+		<EnglishScore>43</EnglishScore>
+		<ChineseScore>75</ChineseScore>
+		<average>68.0</average>
+		<total>206.0</total>
+	</student>
+	<student id="006">
+		<sid>1710241028</sid>
+		<student_name>林青霞</student_name>
+		<mathScore>66</mathScore>
+		<EnglishScore>76</EnglishScore>
+		<ChineseScore>89</ChineseScore>
+		<average>77.0</average>
+		<total>231.0</total>
+	</student>
+	<student id="007">
+		<sid>1710241065</sid>
+		<student_name>张曼玉</student_name>
+		<mathScore>76</mathScore>
+		<EnglishScore>89</EnglishScore>
+		<ChineseScore>58</ChineseScore>
+		<average>74.0</average>
+		<total>223.0</total>
+	</student>
+	<student id="008">
+		<sid>1710241243</sid>
+		<student_name>邱淑贞</student_name>
+		<mathScore>92</mathScore>
+		<EnglishScore>89</EnglishScore>
+		<ChineseScore>86</ChineseScore>
+		<average>89.0</average>
+		<total>267.0</total>
+	</student>
+	<student id="009">
+		<sid>1710241089</sid>
+		<student_name>李嘉欣</student_name>
+		<mathScore>76</mathScore>
+		<EnglishScore>48</EnglishScore>
+		<ChineseScore>78</ChineseScore>
+		<average>67.0</average>
+		<total>202.0</total>
+	</student>
+	<student id="010">
+		<sid>1710241096</sid>
+		<student_name>钟楚红</student_name>
+		<mathScore>88</mathScore>
+		<EnglishScore>50</EnglishScore>
+		<ChineseScore>88</ChineseScore>
+		<average>75.0</average>
+		<total>226.0</total>
+	</student>
+	<student id="011">
+		<sid>1710241068</sid>
+		<student_name>张国荣</student_name>
+		<mathScore>96</mathScore>
+		<EnglishScore>76</EnglishScore>
+		<ChineseScore>67</ChineseScore>
+		<average>79.0</average>
+		<total>239.0</total>
+	</student>
+	<student id="012">
+		<sid>1710241037</sid>
+		<student_name>朱茵</student_name>
+		<mathScore>53</mathScore>
+		<EnglishScore>54</EnglishScore>
+		<ChineseScore>53</ChineseScore>
+		<average>53.0</average>
+		<total>160.0</total>
+	</student>
+	<student id="013">
+		<sid>1710241387</sid>
+		<student_name>李政宰</student_name>
+		<mathScore>56</mathScore>
+		<EnglishScore>78</EnglishScore>
+		<ChineseScore>98</ChineseScore>
+		<average>77.0</average>
+		<total>232.0</total>
+	</student>
+	<student id="014">
+		<sid>1710241373</sid>
+		<student_name>刘亚仁</student_name>
+		<mathScore>90</mathScore>
+		<EnglishScore>97</EnglishScore>
+		<ChineseScore>47</ChineseScore>
+		<average>78.0</average>
+		<total>234.0</total>
+	</student>
+	<student id="015">
+		<sid>1710241688</sid>
+		<student_name>姜栋元</student_name>
+		<mathScore>65</mathScore>
+		<EnglishScore>87</EnglishScore>
+		<ChineseScore>75</ChineseScore>
+		<average>75.0</average>
+		<total>227.0</total>
+	</student>
+	<student id="016">
+		<sid>1710241465</sid>
+		<student_name>黄政民</student_name>
+		<mathScore>85</mathScore>
+		<EnglishScore>88</EnglishScore>
+		<ChineseScore>82</ChineseScore>
+		<average>85.0</average>
+		<total>255.0</total>
+	</student>
+	<student id="017">
+		<sid>1710241033</sid>
+		<student_name>德尼罗</student_name>
+		<mathScore>97</mathScore>
+		<EnglishScore>93</EnglishScore>
+		<ChineseScore>95</ChineseScore>
+		<average>95.0</average>
+		<total>285.0</total>
+	</student>
+	<student id="018">
+		<sid>1710241436</sid>
+		<student_name>尊龙</student_name>
+		<mathScore>90</mathScore>
+		<EnglishScore>67</EnglishScore>
+		<ChineseScore>45</ChineseScore>
+		<average>67.0</average>
+		<total>202.0</total>
+	</student>
+</students>
